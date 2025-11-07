@@ -432,7 +432,8 @@ Some ideas for future versions:
 - Add metrics and monitoring hooks
 
 ## Demo Video: 
-[Watch Here]((https://drive.google.com/file/d/1XsO6lQsndcLBvuJRci0Aze_adxsdfZQZ/view?usp=sharing))
+[Watch Here]([https://drive.google.com/file/d/1XsO6lQsndcLBvuJRci0Aze_adxsdfZQZ/view?usp=sharing])
+https://drive.google.com/file/d/1XsO6lQsndcLBvuJRci0Aze_adxsdfZQZ/view?usp=sharing
 
 
 ---
